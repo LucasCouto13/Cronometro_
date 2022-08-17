@@ -1,0 +1,32 @@
+*{
+    background-color: #feb032;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+}
+
+.time #iniciar{
+    background-color: rgb(14, 95, 14);
+    color: white;
+    border-radius: 8%;
+}
+.time #pausar{
+    background-color: gray;
+    color: white;
+    border-radius: 8%;
+}
+.time #parar{
+    background-color: red;
+    color: white;
+    border-radius: 8%;
+}
+button:hover{
+    cursor: pointer;
+}
